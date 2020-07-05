@@ -33,7 +33,8 @@ HTML CODE:
 </body>
 </html>
 
-CSS CODE:
+
+
 
 *{
     margin: 0;
